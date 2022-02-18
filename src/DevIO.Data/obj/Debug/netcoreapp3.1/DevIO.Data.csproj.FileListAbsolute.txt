@@ -1,0 +1,15 @@
+C:\Estudo\Desenvolvedor.IO\CadastroIO.Web\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.deps.json
+C:\Estudo\Desenvolvedor.IO\CadastroIO.Web\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.dll
+C:\Estudo\Desenvolvedor.IO\CadastroIO.Web\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.pdb
+C:\Estudo\Desenvolvedor.IO\CadastroIO.Web\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.dll
+C:\Estudo\Desenvolvedor.IO\CadastroIO.Web\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.pdb
+C:\Estudo\Desenvolvedor.IO\CadastroIO.Web\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.AssemblyReference.cache
+C:\Estudo\Desenvolvedor.IO\CadastroIO.Web\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfoInputs.cache
+C:\Estudo\Desenvolvedor.IO\CadastroIO.Web\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfo.cs
+C:\Estudo\Desenvolvedor.IO\CadastroIO.Web\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.CoreCompileInputs.cache
+C:\Estudo\Desenvolvedor.IO\CadastroIO.Web\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.CopyComplete
+C:\Estudo\Desenvolvedor.IO\CadastroIO.Web\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.dll
+C:\Estudo\Desenvolvedor.IO\CadastroIO.Web\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.pdb
+C:\Estudo\Desenvolvedor.IO\CadastroIO.Web\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.runtimeconfig.json
+C:\Estudo\Desenvolvedor.IO\CadastroIO.Web\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.runtimeconfig.dev.json
+C:\Estudo\Desenvolvedor.IO\CadastroIO.Web\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.genruntimeconfig.cache
